@@ -9,3 +9,5 @@ drag all files into "var/www/html"
 service apache2 restart
 
 ----ur all set enjoy!
+
+ps credits and og person who got access too this - ZOPZ, ProjectZOPZ, anyone else claiming is larping.
