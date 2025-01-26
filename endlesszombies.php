@@ -1,10 +1,9 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Endless Zombies</title>    <script src="detectDevTools_obfus.js"></script>
+    <title>Endless Zombies</title>    <script src="html_is_public_already_retard.js"></script>
 
     <style>
       

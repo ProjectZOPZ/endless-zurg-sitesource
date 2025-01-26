@@ -1,0 +1,1 @@
+Search Value: FortniteSearch Payload: {"Query":"Fortnite","DeviceFamilies":["Windows.Xbox"],"ProductFamilies":["games"],"Scope":"EDGEWATER","Filters":[]}HTTP Response Code: 400API Response: {"Error":"MissingOrInvalidSearchQuery"}
